@@ -1,6 +1,3 @@
-
-
-
 cheat_assignment3 <- function() {
   
   text <- "###########################################################################
@@ -518,6 +515,3 @@ cheat_assignment3 <- function() {
   "
   cat(text)
 }
-
-
-cheat_assignment3()
